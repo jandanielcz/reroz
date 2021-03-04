@@ -2,6 +2,11 @@
 
 Demo projekt pro react. Stáhne data z api a tak dále.
 
+~~~
+npm install
+npm start
+~~~
+
 ## Available Scripts
 
 In the project directory, you can run:
