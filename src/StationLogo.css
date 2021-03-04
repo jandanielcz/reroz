@@ -1,0 +1,9 @@
+.StationLogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.StationLogo img {
+    height: 20px;
+}

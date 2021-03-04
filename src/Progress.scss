@@ -1,0 +1,10 @@
+@import "colors";
+
+.Progress {
+    background-color: #cacaca;
+    overflow: hidden;
+    > div {
+        height: 10px;
+        background-color: $accent;
+    }
+}
